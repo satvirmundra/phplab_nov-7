@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+
+  $array =[
+    "foo"=>"bar",
+    "bar"=>"foo",
+    
+    ];
+?> 
+
+</body>
+</html>
