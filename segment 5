@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  
+ // $numbers =array(12,45,56,78,23,14);
+  $animals =["cat","dog","tiger","deer"];
+ 
+ // print_r($numbers);
+  echo $animals[3];
+  
+?> 
+
+</body>
+</html>
