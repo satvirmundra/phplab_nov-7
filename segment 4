@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  
+  $array =array(
+    100=>-100,
+    -100=>100,
+    "foo"=>"bar",
+    "bar"=>"foo",
+    );
+  //var_dump($array);
+  echo $array["bar"];
+  
+?> 
+
+</body>
+</html>
