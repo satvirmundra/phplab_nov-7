@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  
+ $ages =array(
+   "john" => 34,"marry"=>45 ,"kamal"=>21
+   );
+  echo $ages["john"];"<br>";
+  
+  array_pop($ages);
+  
+  print_r($ages);
+  
+?> 
+for($i=0; i<5 ;i++){
+echo $i;}
+
+</body>
+</html>
